@@ -1,7 +1,7 @@
 import React from 'react'
 
 import billboard from "../Assets/bill-img.png";
-import { FaPhone,FaInstagram,FaEnvelope,FaLocationArrow } from 'react-icons/fa';
+import { FaPhone,FaInstagram,FaEnvelope} from 'react-icons/fa';
 
 
 function Contact() {
@@ -42,7 +42,7 @@ function Contact() {
 
           </div>
           <div className="contra">
-            <FaLocationArrow/>
+          <FaEnvelope/>
 
             <p>166 Westwoood Drive Kambuzuma Zimbabwe</p>
 
